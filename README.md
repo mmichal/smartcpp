@@ -1,4 +1,4 @@
-#Smarpy
+#SmartCpp
 
 A simple C++ smart pointer with reference counting
 
